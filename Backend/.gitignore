@@ -1,0 +1,15 @@
+# Node dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Uploaded images
+schoolImages/
+
+# Frontend build folder
+dist/
+build/
+
+# Optional: logs
+*.log
